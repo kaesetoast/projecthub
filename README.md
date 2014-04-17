@@ -1,4 +1,2 @@
-projecthub
-==========
-
-A place to store all my project metadata and credentials
+# projecthub
+A place for all my project metadata and credentials
